@@ -1,7 +1,7 @@
 {
     "name": "alialamshahi/tino",
     "description": "Clean Responsive Business SilverStripe Template",
-    "type": "silverstripe-theme",
+    "type": "silverstripe-module",
     "keywords": ["silverstripe", "theme", "tino"],
     "license": "MIT",
     "authors": [
